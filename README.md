@@ -11,3 +11,5 @@ Along with the world's transformation itself into the fourth industrial revoluti
 **What urged you to the decision to organize the competition?**
 
 I found that a lot of universities have held competitions in Informatics to bring students a place to play and learn about algorithms, arithmetic, etc. However, it's not like that in a high school environment. In Vietnam, algorithms or more broadly, Informatics, hasn't got its right stand. Because of that, my friends and I want to be pioneers who create a competition with the purpose to change the way pupils see Informatics into how it should be.
+
+**Facebook:** https://www.facebook.com/acmgiadinh/
